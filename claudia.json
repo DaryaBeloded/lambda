@@ -1,0 +1,7 @@
+{
+  "lambda": {
+    "role": "daysleft-executor",
+    "name": "daysleft",
+    "region": "eu-central-1"
+  }
+}
